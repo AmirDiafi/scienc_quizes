@@ -1,0 +1,1289 @@
+{
+    "data": [
+        {
+          "id": "0",
+          "title": "Human Body Quiz",
+          "desc":
+            "We all live with one so it's important to know how your body works. Test your understanding by taking our human body quiz with questions about the brain, heart, skeleton and more.",
+          "image_source":
+            "https://drive.google.com/uc?export=view&id=11MUBD9sQ7Ci725RmIDys-X7gbjelfv1o",
+            "quizzes": [
+              {
+                "id": "0",
+                "quiz": "What is the name of the biggest part of the human brain?",
+                "choices": ["Thalamus", "Pons", "The cerebrum", "Corpus callosum"],
+                "answer": "The cerebrum"
+              },
+              {
+                "id": "1",
+                "quiz": "The colored part of the human eye that controls how much light passes through the pupil is called the?",
+                "choices": ["Cris", "Cornea", "Iris", "Lens"],
+                "answer": "Iris"
+              },
+              {
+                "id": "2",
+                "quiz": "What is the name of the substance that gives skin and hair its pigment?",
+                "choices": ["Melanin", "Androgens", "Histamine", "Estrogens"],
+                "answer": "Melanin"
+              },
+              {
+                "id": "3",
+                "quiz": "The muscles found in the front of your thighs are known as what?",
+                "choices": ["Rectus femoris",  "Quad", "Front Muscles","Quadriceps"],
+                "answer": "Quadriceps"
+              },
+              {
+                "id": "4",
+                "quiz": "True or false? The two chambers at the bottom of your heart are called ventricles.",
+                "choices": ["True", "False"],
+                "answer": "True"
+              },
+              {
+                "id": "5",
+                "quiz": "What substance are nails made of?",
+                "choices": ["Keratin", "Bone", "Blood", "Food"],
+                "answer": "Keratin"
+              },
+              {
+                "id": "6",
+                "quiz": "What is the human body’s biggest organ?",
+                "choices": ["Lungs", "Liver", "The skin", "Kidneys"],
+                "answer": "The skin"
+              },
+              {
+                "id": "7",
+                "quiz": "The innermost part of bones contains what?",
+                "choices": ["Bone marrow", "Collagen", "Milk", "Calcium"],
+                "answer": "Bone marrow"
+              },
+              {
+                "id": "8",
+                "quiz": "True or false? An adult human body has over 500 bones.",
+                "choices": ["True", "False"],
+                "answer": "False",
+                "answerTow": "(there are 206)"
+              },
+              {
+                "id": "9",
+                "quiz": "How many lungs does the human body have?",
+                "choices": ["4", "3", "2", "6"],
+                "answer": "2"
+              },
+              {
+                "id": "10",
+                "quiz": "Another name for your voice box is the?",
+                "choices": ["Larynx", "Thorax", "Pollex", "Hallux"],
+                "answer": "Larynx"
+              },
+              {
+                "id": "11",
+                "quiz": "The two holes in your nose are called",
+                "choices": ["Holes", "Tubs", "Branchi", "Nostrils"],
+                "answer": "Nostrils"
+              },
+              {
+                "id": "12",
+                "quiz": "Your tongue is home to special structures that allow you to experience tastes such as sour, sweet, bitter and salty, what is their name?",
+                "choices": ["Taste buds", "Lingual tonsil", "Palatine tonsil", "Vallate pappilae"],
+                "answer": "Taste buds"
+              },
+              {
+                "id": "13",
+                "quiz": "The bones that make up your spine are called what?",
+                "choices": ["Cervical", "Vertebrae", "Tailbone", "Scapula"],
+                "answer": "Vertebrae"
+              },
+              {
+                "id": "14",
+                "quiz": "The shape of DNA is known as?",
+                "choices": ["Molecular", "Double-Stranded", "A double helix", "Deoxyribonuleic Acid"],
+                "answer": "A double helix"
+              },
+              {
+                "id": "15",
+                "quiz": "The flow of blood through your heart and around your body is called?",
+                "choices": ["Hemodynamics", "The Movement of the blood", "A double helix", "Circulation"],
+                "answer": "Circulation"
+              },
+              {
+                "id": "16",
+                "quiz": "The bones around your chest that protect organs such as the heart are called what?",
+                "choices": ["Ribs", "The Breastbone", "Sternum", "Cage"],
+                "answer": "Ribs"
+              },
+              {
+                "id": "17",
+                "quiz": "What is the name of the long pipe that shifts food from the back of your throat down to your stomach?",
+                "choices": ["Windpipe", "The Breastbone", "Mouth", "Trachea"],
+                "answer": "The esophagus"
+              },
+              {
+                "id": "18",
+                "quiz": "True or false? Your ears are important when it comes to staying balanced.",
+                "choices": ["True", "False"],
+                "answer": "True"
+              },
+              {
+                "id": "19",
+                "quiz": "The outside layer of skin on the human body is called the?",
+                "choices": ["Dermis", "Epidermis", "Fat", "Hypodermis"],
+                "answer": "Epidermis"
+              }
+            ]
+        },
+        {
+          "id": "1",
+          "title": "Animal Quiz",
+          "desc":
+            "How much do you know about our animal friends? Our animal quiz will challenge your knowledge of cats, dogs, birds, tigers, snakes, fish, elephants, lions and more.",
+          "image_source":
+            "https://drive.google.com/uc?export=view&id=1KEt5ZOvmEUSLEfxVL9zJJfhXg5Kc1RuS",
+          "quizzes": [
+            {
+              "id": "0",
+              "quiz": "What food makes up nearly all (around 99%) of a Giant Panda’s diet?",
+              "choices": ["Meat", "Bambo", "Vegetable", "Root"],
+              "answer": "Bambo"
+            },
+            {
+              "id": "1",
+              "quiz": "True or false? Mice live for up to 10 years.",
+              "choices": ["True", "False"],
+              "answer": "False",
+              "answerTow": "Captive mice live for up to 2 and a half years while wild mice only live for an average of around 4 months"
+            },
+            {
+              "id": "2",
+              "quiz": "What is the name of the phobia that involves an abnormal fear of spiders?",
+              "choices": ["hemophobia", "Acrophobia", "Arachnophobia", "Claustrophobia"],
+              "answer": "Arachnophobia"
+            },
+            {
+              "id": "3",
+              "quiz": "What is the largest type of ‘big cat’ in the world?",
+              "choices": ["The Lion", "The Jaguar", "The Leopard", "The Cheetah"],
+              "answer": "The tiger"
+            },
+            {
+              "id": "4",
+              "quiz": "True or false? Crocodiles have no sweat glands so they use their mouths to release heat.",
+              "choices": ["True", "False"],
+              "answer": "True",
+              "answerTow": "They often sleep with their mouth open to cool down"
+            },
+            {
+              "id": "5",
+              "quiz": "Are butterflies insects?",
+              "choices": ["Yes", "No"],
+              "answer": "Yes"
+            },
+            {
+              "id": "6",
+              "quiz": "What are female elephants called?",
+              "choices": ["Bull", "Cows", "Sows", "nannys"],
+              "answer": "Cows"
+            },
+            {
+              "id": "7",
+              "quiz": "True or false? Bats are mammals.",
+              "choices": ["True", "False"],
+              "answer": "True"
+            },
+            {
+              "id": "8",
+              "quiz": "Bees are found on every continent of earth except for one, which is it?",
+              "choices": ["Andrena", "Antarctica", "Stenotritidae", "Andrenidae"],
+              "answer": "Antarctica"
+            },
+            {
+              "id": "9",
+              "quiz": "True or false? Cats spend an average of 13 to 14 hours a day sleeping.",
+              "choices": ["True", "False"],
+              "answer": "True"
+            },
+            {
+              "id": "10",
+              "quiz": "What is the fastest land animal in the world?",
+              "choices": ["The cheetah", "The siberian tiger", "The Horse", "Peregrine falcon"],
+              "answer": "The cheetah"
+            },
+            {
+              "id": "11",
+              "quiz": "A ‘doe’ is what kind of animal?",
+              "choices": ["Rabbit", "A female deer", "Lion", "Monkey"],
+              "answer": "A female deer"
+            },
+            {
+              "id": "12",
+              "quiz": "True or false? Cougar’s are herbivores.",
+              "choices": ["True", "False"],
+              "answer": "False",
+              "answerTow": "They are carnivores"
+            },
+            {
+              "id": "13",
+              "quiz": "Groups of lions are known as what?",
+              "choices": ["Streak", "Sleuth", "Prides", "herd"],
+              "answer": "Prides"
+            },
+            {
+              "id": "14",
+              "quiz": "Is a dolphin a mammal?",
+              "choices": ["Yes", "No"],
+              "answer": "Yes"
+            },
+            {
+              "id": "15",
+              "quiz": "What is the largest land animal in the world?",
+              "choices": ["The Gorilla", "The brwon bear", "The Corcodile", "The elephan"],
+              "answer": "The elephan"
+            },
+            {
+              "id": "16",
+              "quiz": "True of false? Snakes have slimy skin.",
+              "choices": ["True", "False"],
+              "answer": "False",
+              "answerTow": "Snakeskin is smooth and dry."
+            },
+            {
+              "id": "17",
+              "quiz": "What is the only continent on earth where Giraffes live in the wild?",
+              "choices": ["Africa", "America", "Australia", "India"],
+              "answer": "Africa"
+            },
+            {
+              "id": "18",
+              "quiz": "How many pairs of wings does a bee have?",
+              "choices": ["6", "8", "4", "2"],
+              "answer": "2"
+            },
+            {
+              "id": "19",
+              "quiz": "What type of animal is the largest primate in the world?",
+              "choices": ["The corcodile", "The bear", "The elephant", "The gorilla"],
+              "answer": "The corilla"
+            },
+            {
+              "id": "20",
+              "quiz": "Is a shark a fish or a mammal?",
+              "choices": ["A mammal", "A fish"],
+              "answer": "A fish"
+            },
+            {
+              "id": "21",
+              "quiz": "What is the most recognizable feature of a hedgehog’s appearance?",
+              "choices": ["small mammals", "It has shortish", "Their spines of spiky hair.", "cone-shaped faces"],
+              "answer": "Their spines of spiky hair."
+            },
+            {
+              "id": "22",
+              "quiz": "True or false? Owls are far-sighted, meaning that anything within a few inches of their eyes can’t be seen properly",
+              "choices": ["True", "False"],
+              "answer": "True"
+            },
+            {
+              "id": "23",
+              "quiz": "What is the name of an adult female horse?",
+              "choices": ["A calf", "A jenny", "A Hatchling", "A male"],
+              "answer": "A mare"
+            },
+            {
+              "id": "24",
+              "quiz": "What are baby goats called?",
+              "choices": ["Lamb", "Kids", "Baby", "Hatchling"],
+              "answer": "Kids"
+            },
+            {
+              "id": "25",
+              "quiz": "What is the tallest animal in the world?",
+              "choices": ["The giraffe", "Saltwater corcodile", "Brown bear", "African elephant"],
+              "answer": "The giraffe ",
+              "answerTow": "The average height is around 5 metres (16ft) and the tallest on record stood nearly 6 metres (20 ft) tall"
+            },
+            {
+              "id": "26",
+              "quiz": "True or false? Rabbits are born blind.",
+              "choices": ["True", "False"],
+              "answer": "True"
+            },
+            {
+              "id": "27",
+              "quiz": "What is the most recognizable physical feature of the male lion?",
+              "choices": ["Powerful legs", "Compact body", "Powerful forelegs", "Its mane"],
+              "answer": "Its mane"
+            },
+            {
+              "id": "28",
+              "quiz": "How many legs does a spider have?",
+              "choices": ["6", "8", "14", "10"],
+              "answer": "8"
+            },
+            {
+              "id": "29",
+              "quiz": "he crocodile species is believed to have been around for how long? 2 million years or 200 million years?",
+              "choices": ["200 million years", "400 million years", "300 million years", "100 million years"],
+              "answer": "200 million years"
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "title": "Space Quiz",
+          "desc":
+            "You'll find questions about stars, planets, moons, astronauts, astronomy and more in this fun space quiz. Take the space challenge and see how many answers you know.",
+          "image_source":
+            "https://drive.google.com/uc?export=view&id=1kIKRlIt2MERTGX9wPBB871o-n5jR9-DE",
+          "quizzes": [
+            {
+              "id": "0",
+              "quiz": "What is the closest planet to the Sun?",
+              "choices": ["Venus", "Mars", "Mercury", "Earth"],
+              "answer": "Mercury"
+            },
+            {
+              "id": "1",
+              "quiz": "What is the name of the 2nd biggest planet in our solar system?",
+              "choices": ["The Sun", "Venus", "Neptune", "Mars"],
+              "answer": "Saturn"
+            },
+            {
+              "id": "2",
+              "quiz": "What is the hottest planet in our solar system?",
+              "choices": ["Jupiter", "Neptune", "Earth", "Venus"],
+              "answer": "Venus"
+            },
+            {
+              "id": "3",
+              "quiz": "What planet is famous for its big red spot on it?",
+              "choices": ["Mars", "Jupiter", "The Sun", "Jupiter"],
+              "answer": "Jupiter"
+            },
+            {
+              "id": "4",
+              "quiz": "What planet is famous for the beautiful rings that surround it?",
+              "choices": ["Mars", "Saturn", "Plato","Uranus"],
+              "answer": "Saturn"
+            },
+            {
+              "id": "5",
+              "quiz": "Can humans breathe normally in space as they can on Earth?",
+              "choices": ["Yes", "No"],
+              "answer": "No",
+              "answerTow":"humans cannot breath normally in space as there is no air and oxygen as it is on earth"
+            },
+            {
+              "id": "6",
+              "quiz": "Is the sun a star or a planet?",
+              "choices": ["A Star", "A Planet"],
+              "answer": "A Star"
+            },
+            {
+              "id": "7",
+              "quiz": "Who was the first person to walk on the moon?",
+              "choices": ["Buzz Aldrin", "Neil Armstrong", "Charles P. (Pete) Conrad", "Alan Bean"],
+              "answer": "Neil Armstrong"
+            },
+            {
+              "id": "8",
+              "quiz": "What planet is known as the red planet?",
+              "choices": ["Neptune", "Uranus", "Jupiter", "Mars"],
+              "answer": "Mars"
+            },
+            {
+              "id": "9",
+              "quiz": "What is the name of the force holding us to the Earth?",
+              "choices": ["G Force", "Gravity", "Black hole", "Anti-gravity"],
+              "answer": "Gravity"
+            },
+            {
+              "id": "10",
+              "quiz": "Have human beings ever set foot on Mars?",
+              "choices": ["Yes", "No"],
+              "answer": "No"
+            },
+            {
+              "id": "11",
+              "quiz": "What is the name of a place that uses telescopes and other scientific equipment to research space and astronomy?",
+              "choices": ["An ISS", "Telescopes land", "Observatory", "Telescopes space"],
+              "answer": "Observatory"
+            },
+            {
+              "id": "12",
+              "quiz": "What is the name of NASA’s most famous space telescope?",
+              "choices": ["Edwin Hubble", "Hubble Space Telescope", "James Webb Space Telescope", "Swift Gamma Ray Burst Explorer"],
+              "answer": "Hubble Space Telescope"
+            },
+            {
+              "id": "13",
+              "quiz": "Earth is located in which galaxy?",
+              "choices": ["The Milky Way Galaxy", "Antennae Galaxies", "Andromeda Galaxy", "Eye of Sauron"],
+              "answer": "The Milky Way Galaxy"
+            },
+            {
+              "id": "14",
+              "quiz": "What is the name of the first satellite sent into space?",
+              "choices": ["GSAT-30", "Sputnik", "Explorer", "Rysat"],
+              "answer": "Sputnik"
+            },
+            {
+              "id": "15",
+              "quiz": "Ganymede is a moon of which planet?",
+              "choices": ["Mars", "Mercury", "Venus", "Jupiter"],
+              "answer": "Jupiter"
+            },
+            {
+              "id": "16",
+              "quiz": "What is the name of Saturn’s largest moon?",
+              "choices": ["Helene", "Titan", "Dione", "Tethys"],
+              "answer": "Titan"
+            },
+            {
+              "id": "17",
+              "quiz": "Olympus Mons is a large volcanic mountain on which planet?",
+              "choices": ["Jupiter", "Mars", "Venus", "Neptune"],
+              "answer": "Mars"
+            },
+            {
+              "id": "18",
+              "quiz": "Does the sun orbit the Earth?",
+              "choices": ["Yes", "No"],
+              "answer": "No"
+            },
+            {
+              "id": "19",
+              "quiz": "Is the planet Neptune bigger than Earth?",
+              "choices": ["Yes", "No"],
+              "answer": "Yes"
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "title": "Planet Quiz",
+          "desc":"Focus on the planets with this fun quiz for kids. Answer questions related to Venus, Jupiter, Saturn, Mars and our other neighbors in the Solar System.",
+          "image_source":
+            "https://drive.google.com/uc?export=view&id=1wQg6xI6vLsFhKfTG7DrJqNf43ueqqoeM",
+          "quizzes": [
+            {
+              "id": "0",
+              "quiz": "Now that Pluto is no longer included, how many planets are there in the Solar System?",
+              "choices": ["6", "11", "9", "8"],
+              "answer": "8"
+            },
+            {
+              "id": "1",
+              "quiz": "What is the smallest planet in the Solar System?",
+              "choices": ["Mercury", "Saturn", "Uranus", "Neptune"],
+              "answer": "Mercury"
+            },
+            {
+              "id": "2",
+              "quiz": "What is the largest planet in the Solar System?",
+              "choices": ["Jupiter", "Neptune", "Earth", "Venus"],
+              "answer": "Jupiter"
+            },
+            {
+              "id": "3",
+              "quiz": "What is the hottest planet in the Solar System?",
+              "choices": ["Mars", "Jupiter", "The Sun", "Neptune"],
+              "answer": "Venus"
+            },
+            {
+              "id": "4",
+              "quiz": "The sixth planet from the Sun features an extensive ring system, what is the name of this planet?",
+              "choices": ["Mars", "Venus", "Saturn","Uranus"],
+              "answer": "Saturn"
+            },
+            {
+              "id": "5",
+              "quiz": "The chemical element uranium was named after what planet?",
+              "choices": ["Mars", "Venus", "Saturn","Uranus"],
+              "answer": "Uranus"
+            },
+            {
+              "id": "6",
+              "quiz": "What planet in the solar system is farthest from the Sun?",
+              "choices": ["Mars", "Jupiter", "The Sun", "Neptune"],
+              "answer": "Neptune"
+            },
+            {
+              "id": "7",
+              "quiz": "What is the second smallest planet in the solar system?",
+              "choices": ["Mercury", "Mars", "Pluto", "Neptune"],
+              "answer": "Mars"
+            },
+            {
+              "id": "8",
+              "quiz": "What planet is closest in size to Earth?",
+              "choices": ["Neptune", "Venus", "Jupiter", "Mars"],
+              "answer": "Venus"
+            },
+            {
+              "id": "9",
+              "quiz": "The moon Titan orbits what planet?",
+              "choices": ["Saturn", "Earth", "Jupiter", "Neptune"],
+              "answer": "Saturn"
+            },
+            {
+              "id": "10",
+              "quiz": "What planet is nicknamed the ‘Red Planet’?",
+              "choices": ["Neptune", "Earth", "Venus", "Mars"],
+              "answer": "Mars"
+            },
+            {
+              "id": "11",
+              "quiz": "True or false? Neptune is larger than Saturn.",
+              "choices": ["True", "False"],
+              "answer": "False"
+            },
+            {
+              "id": "12",
+              "quiz": "The Galilean moons orbit what planet?",
+              "choices": ["Saturn", "Jupiter", "Uranus", "Venus"],
+              "answer": "Jupiter"
+            },
+            {
+              "id": "13",
+              "quiz": "What planet is closest to the Sun?",
+              "choices": ["Venus", "Mercury", "Pluto", "Jupiter"],
+              "answer": "Mercury"
+            },
+            {
+              "id": "14",
+              "quiz": "What is the seventh planet from the Sun?",
+              "choices": ["Saturn", "Jupiter", "Uranus", "Venus"],
+              "answer": "Uranus"
+            },
+            {
+              "id": "15",
+              "quiz": "True or false? Venus has more atmospheric pressure than Earth?",
+              "choices": ["True", "False"],
+              "answer": "True"
+            },
+            {
+              "id": "16",
+              "quiz": "Triton is the largest moon of what planet?",
+              "choices": ["Venus", "Neptune", "Jupiter", "Saturn"],
+              "answer": "Neptune"
+            },
+            {
+              "id": "17",
+              "quiz": "What is the brightest planet in the night sky?",
+              "choices": ["Jupiter", "Neptune", "Venus", "Mars"],
+              "answer": "Venus"
+            },
+            {
+              "id": "18",
+              "quiz": "What is the third planet from the Sun?",
+              "choices": ["Venus", "Pluto", "Neptune", "Earth"],
+              "answer": "Earth"
+            },
+            {
+              "id": "19",
+              "quiz": "Phobos and Deimos are moons of what planet?",
+              "choices": ["Jupiter", "Neptune", "Venus", "Mars"],
+              "answer": "Mars"
+            }
+          ]
+        },
+        {
+          "id": "4",
+          "title": "Chemistry Quiz",
+          "desc":
+            "Chemistry covers interesting topics such as atoms, elements, reactions, gases, acids and bases. Put your chemistry skills to the test with our fun quiz!",
+          "image_source":
+            "https://drive.google.com/uc?export=view&id=1sVCuhMZyQmvyCpp_PNxz-T_RAYgSO77G",
+          "quizzes": [
+            {
+              "id": "0",
+              "quiz": "What is the first element on the periodic table?",
+              "choices": ["Helium", "Lithiume", "Hydrogen", "Argon"],
+              "answer": "Hydrogen"
+            },
+            {
+              "id": "1",
+              "quiz": "What is the centre of an atom called?",
+              "choices": ["Center", "Orbits", "Nucleus", "center of the atom"],
+              "answer": "Nucleus"
+            },
+            {
+              "id": "2",
+              "quiz": "True or false? Acids have a pH level below 7",
+              "choices": ["True", "False"],
+              "answer": "True"
+            },
+            {
+              "id": "3",
+              "quiz": "What is the main gas found in the air we breathe?",
+              "choices": ["Argon", "Oxygen", "Nitrogen", "Carbon dioxide"],
+              "answer": "Nitrogen",
+              "answerTow":"(around 78%)"
+            },
+            {
+              "id": "4",
+              "quiz": "True or false? An electron carries a positive charge",
+              "choices": ["True", "False"],
+              "answer": "False"
+            },
+            {
+              "id": "5",
+              "quiz": "Famous New Zealand scientist Ernest Rutherford was awarded a Nobel Prize in which field?",
+              "choices": ["Geology", "Liquids", "Chemistry","Physic"],
+              "answer": "Chemistry"
+            },
+            {
+              "id": "6",
+              "quiz": "What is the chemical symbol for gold?",
+              "choices": ["Fe", "Pb", "Go", "Au"],
+              "answer": "Au"
+            },
+            {
+              "id": "7",
+              "quiz": "K is the chemical symbol for which element?",
+              "choices": ["Lead", "Potassium", "Iron", "Copper"],
+              "answer": "Potassium"
+            },
+            {
+              "id": "8",
+              "quiz": "What orbits the nucleus of an atom?",
+              "choices": ["Electrons", "Protons", "Quarks", "Neutrons"],
+              "answer": "Electrons"
+            },
+            {
+              "id": "9",
+              "quiz": "At room temperature, what is the only metal that is in liquid form?",
+              "choices": ["Mars", "Earth", "Jupiter", "Mercury"],
+              "answer": "Mercury"
+            },
+            {
+              "id": "10",
+              "quiz": "True or false? A neutron has no net electric charge.",
+              "choices": ["True", "False"],
+              "answer": "True"
+            },
+            {
+              "id": "11",
+              "quiz": "A nuclear reaction where the nucleus of an atom splits into smaller parts is known as nuclear fission or nuclear fusion?",
+              "choices": ["Nuclear fusion", "Nuclear fission"],
+              "answer": "Nuclear fission"
+            },
+            {
+              "id": "12",
+              "quiz": "What is H20 more commonly known as?",
+              "choices": ["Air", "Water", "Oxygen", "Carbon"],
+              "answer": "Water"
+            },
+            {
+              "id": "13",
+              "quiz": "What is the third most common gas found in the air we breathe?",
+              "choices": ["Nitrogen", "Oxygen", "Argon", "Carbon dioxide"],
+              "answer": "Argon",
+              "answerTow": "(around 1%)"
+            },
+            {
+              "id": "14",
+              "quiz": "What is the name given to substances that are initially involved in a chemical reaction?",
+              "choices": ["Reactants", "Products", "Mass", "Mole ratio"],
+              "answer": "Reactants"
+            },
+            {
+              "id": "15",
+              "quiz": "True or false? Bases have a pH level below 7.",
+              "choices": ["True", "False"],
+              "answer": "False"
+            },
+            {
+              "id": "16",
+              "quiz": "Is sodium hydroxide (NaOH) an acid or base?",
+              "choices": ["Acid", "Base"],
+              "answer": "Base"
+            },
+            {
+              "id": "17",
+              "quiz": "Atoms of the same chemical element that have different atomic mass are known as?",
+              "choices": ["Electrons", "Protons", "Isotopes", "Neutrons"],
+              "answer": "Isotopes"
+            },
+            {
+              "id": "18",
+              "quiz": "True or false? A proton carries a positive charge.",
+              "choices": ["True", "False"],
+              "answer": "True"
+            },
+            {
+              "id": "19",
+              "quiz": "What is the fourth most abundant element in the universe in terms of mass?",
+              "choices": ["Helium", "Hydrogen", "Carbon", "Nitrogen"],
+              "answer": "Carbon"
+            }
+          ]
+        },
+        {
+          "id": "5",
+          "title":"Biology Quiz",
+          "desc":
+            "Enjoy our fun biology quiz. Answer questions about evolution, cells, microbiology and more. Find out just how much you've been paying attention during biology lessons at school.",
+          "image_source":
+            "https://drive.google.com/uc?export=view&id=19Rs2ieRSWtUj6bC8bNcc9T262vQtQ0NG",
+          "quizzes": [
+            {
+              "id": "0",
+              "quiz": "Which famous scientist introduced the idea of natural selection?",
+              "choices": ["Alfred Russel", "Charles Darwin", "Gregor Mendel", "Argon"],
+              "answer": "Charles Darwin"
+            },
+            {
+              "id": "1",
+              "quiz": "A person who studies biology is known as a?",
+              "choices": ["Scientist", "Physicist", "Geologist", "Biologist"],
+              "answer": "Biologist"
+            },
+            {
+              "id": "2",
+              "quiz": "Botany is the study of?",
+              "choices": ["Air", "Atoms", "Plants", "Water"],
+              "answer": "Plants"
+            },
+            {
+              "id": "3",
+              "quiz": "Can frogs live in salt water?",
+              "choices": ["Yes", "No"],
+              "answer": "No"
+            },
+            {
+              "id": "4",
+              "quiz": "True or false? The common cold is caused by a virus.",
+              "choices": ["True", "False"],
+              "answer": "True"
+            },
+            {
+              "id": "5",
+              "quiz": "Animals which eat both plants and other animals are known as what?",
+              "choices": ["Carnivores", "Herbivores", "Chemistry", "Eaters of everythung"],
+              "answer": "Omnivores"
+            },
+            {
+              "id": "6",
+              "quiz": "Bacterial infections in humans can be treated with what?",
+              "choices": ["Antibiotics", "Antiretroviral", "Acetaminophen", "Ibuprofen"],
+              "answer": "Antibiotics"
+            },
+            {
+              "id": "7",
+              "quiz": "A single piece of coiled DNA is known as a?",
+              "choices": ["Histone proteins", "Chromosome", "Chromatin", "Genes"],
+              "answer": "Chromosome"
+            },
+            {
+              "id": "8",
+              "quiz": "A group of dog offspring is known as a?",
+              "choices": ["Kitten", "Kit", "Cattle", "Litter"],
+              "answer": "Litter"
+            },
+            {
+              "id": "9",
+              "quiz": "The area of biology devoted to the study of fungi is known as?",
+              "choices": ["Entomology", "Mycology", "Ornithology", "Ichthyology"],
+              "answer": "Mycology"
+            },
+            {
+              "id": "10",
+              "quiz": "What is the name of the process used by plants to convert sunlight into food?",
+              "choices": ["Photosynthesis", "Engines evolved", "Plantsprocess", "Greensynnthesis"],
+              "answer": "Photosynthesis"
+            },
+            {
+              "id": "11",
+              "quiz": "The death of every member of a particular species is known as what?",
+              "choices": ["Plaats", "Extinction", "Mutation", "Mycology"],
+              "answer": "Extinction"
+            },
+            {
+              "id": "12",
+              "quiz": "The process of pasteurization is named after which famous French microbiologist?",
+              "choices": ["Pasteur", "Darwin", "Pavlov", "Hooke"],
+              "answer": "Pasteur"
+            },
+            {
+              "id": "13",
+              "quiz": "True or false? A salamander is a warm blooded animal?",
+              "choices": ["True", "False"],
+              "answer": "False"
+            },
+            {
+              "id": "14",
+              "quiz": "A change of the DNA in an organism that results in a new trait is known as a?",
+              "choices": ["Mutation", "Mycology", "Extinction", "Plaats"],
+              "answer": "Mutation"
+            }
+          ]
+        },
+        {
+          "id": "6",
+          "title": "Electricity Quiz",
+          "desc":
+            "Learn some fun science trivia while enjoying our electricity quiz. How much do you know about electric currents, batteries and circuits? Take the challenge and find out!",
+          "image_source":
+            "https://drive.google.com/uc?export=view&id=17XH0piOUTk_RJQk68ECROwesoWUKGA8Q",
+          "quizzes": [
+            {
+              "id": "0",
+              "quiz": "Electric current is measured using what device?",
+              "choices": ["Capacitance meter", "Galvanometer", "Ammeter", "Distortionmeter"],
+              "answer": "Ammeter"
+            },
+            {
+              "id": "1",
+              "quiz": "True or false? Batteries convert chemical to electrical energy.",
+              "choices": ["True", "Fasle"],
+              "answer": "True"
+            },
+            {
+              "id": "2",
+              "quiz": "In terms of electricity, what does DC stand for?",
+              "choices": ["Dimension of current", "Directory current", "Direct current", "Died current"],
+              "answer": "Direct current"
+            },
+            {
+              "id": "3",
+              "quiz": "The wire inside an electric bulb is known as the what?",
+              "choices": ["Screw threads", "Insulation", "Filament", "Glass mount"],
+              "answer": "Filament"
+            },
+            {
+              "id": "4",
+              "quiz": "Conductors have a high or low resistance?",
+              "choices": ["Low", "High"],
+              "answer": "Low"
+            },
+            {
+              "id": "5",
+              "quiz": "True or false? The concept of electric fields was first introduced by Albert Einstein.",
+              "choices": ["True", "Fasle"],
+              "answer": "False",
+              "answerTow": "(Michael Faraday)"
+            },
+            {
+              "id": "6",
+              "quiz": "Electric resistance is typically measured in what units?",
+              "choices": ["Ohms", "Siemens", "Volts", "Non of the above"],
+              "answer": "Ohms"
+            },
+            {
+              "id": "7",
+              "quiz": "In terms of electricity, what does AC stand for?",
+              "choices": ["Electric resistance", "Alternating current", "All of the above", "Non of the above"],
+              "answer": "Alternating current"
+            },
+            {
+              "id": "8",
+              "quiz": "Electric power is typically measured in what units?",
+              "choices": ["Ampere", "Watts", "Volt", "Siemens"],
+              "answer": "Watts"
+            },
+            {
+              "id": "9",
+              "quiz": "True or false? You can extend battery life by storing batteries at a low temperature.",
+              "choices": ["True", "Fasle"],
+              "answer": "True"
+            }
+          ]
+        },
+        {
+          "id": "7",
+          "title": "Physics Quiz",
+          "desc":
+            "Take our physics quiz and answer questions on energy, motion, friction, light, magnets, gravity and more. With a range of interesting questions you’re sure to find a challenge.",
+          "image_source":
+            "https://drive.google.com/uc?export=view&id=11UCIIDhdgH8oNHXVjib67eTG4j5sMUtw",
+            "quizzes": [
+              {
+                "id": "0",
+                "quiz": "When light bends as it enters a different medium the process is known as what?",
+                "choices": ["Lighting", "Refraction", "All of the above", "Non of the above"],
+                "answer": "Refraction"
+              },
+              {
+                "id": "1",
+                "quiz": "A magnifying glass is what type of lens?",
+                "choices": ["Focal", "Convex", "All of the above", "Non of the above"],
+                "answer": "Convex"
+              },
+              {
+                "id": "2",
+                "quiz": "Electric resistance is typically measured in what units?",
+                "choices": ["Ohms", "Decibel-milliwatt", "Siemens", "Volt"],
+                "answer": "Ohms"
+              },
+              {
+                "id": "3",
+                "quiz": "A person who studies physics is known as a?",
+                "choices": ["Scientist", "Biologist", "Chemist", "Physicist"],
+                "answer": "Physicist"
+              },
+              {
+                "id": "4",
+                "quiz": "Metals expand when heated and do what when cooled?",
+                "choices": ["Contract", "Expand", "All of the above","Non of the above"],
+                "answer": "Contract"
+              },
+              {
+                "id": "5",
+                "quiz": "What is the first name of the famous scientist who gave us Newton’s three laws of motion?",
+                "choices": ["Niels", "Albert", "Isaac","Galileo"],
+                "answer": "Isaac"
+              },
+              {
+                "id": "6",
+                "quiz": "What state of the art computer technology is used to train pilots when wanting to copy the experience of flying an aircraft?",
+                "choices": ["A flight emulator", "A VR flight", " A flight simulator", "Non of the above"],
+                "answer": " A flight simulator"
+              },
+              {
+                "id": "7",
+                "quiz": "Electric power is typically measured in what units?",
+                "choices": ["Watts", "Volt", "Ohm", "Amperes"],
+                "answer": "Watts"
+              },
+              {
+                "id": "8",
+                "quiz": "The most recognized model of how the universe begun is known as the?",
+                "choices": ["The Order and Disorder", "The Big Bang", "Butterfly effect", "Theory of relativity"],
+                "answer": "The Big Bang"
+              },
+              {
+                "id": "9",
+                "quiz": "Who is the Hubble Space Telescope named after?",
+                "choices": ["Charles Pellerin", "James Webb", "Edwin P. Hubble", "John M. Grunsfeld"],
+                "answer": "Edwin P. Hubble"
+              },
+              {
+                "id": "10",
+                "quiz": "The wire inside an electric bulb is known as the what?",
+                "choices": ["Screw threads", "Insulation", "Filament", "Glass mount"],
+                "answer": "Filament"
+              },
+              {
+                "id": "11",
+                "quiz": "Theoretical physicist James Maxwell was born in what country?",
+                "choices": ["United State", "England", "Scotland", "Germany"],
+                "answer": "False"
+              },
+              {
+                "id": "12",
+                "quiz": "Infrared light has a wavelength that is too long or short to be visible for humans?",
+                "choices": ["Long", "Too long", "Short", "To short"],
+                "answer": "Long"
+              },
+              {
+                "id": "13",
+                "quiz": "What kind of eclipse do we have when the moon is between the sun and the earth?",
+                "choices": ["A lunar Eclipses", "A solar eclipse", "All of the above", "Non of the above"],
+                "answer": "A solar eclipse"
+              },
+              {
+                "id": "14",
+                "quiz": "True or false? Iron is attracted by magnets.",
+                "choices": ["True", "False"],
+                "answer": "True"
+              },
+              {
+                "id": "15",
+                "quiz": "What is the earth’s primary source of energy?",
+                "choices": ["The sky", "The sun", "The moon", "The trees"],
+                "answer": "The sun"
+              },
+              {
+                "id": "16",
+                "quiz": "Conductors have a high or low resistance?",
+                "choices": ["High", "Low"],
+                "answer": "Low"
+              },
+              {
+                "id": "17",
+                "quiz": "Electric current is typically measured in what units?",
+                "choices": ["Watts", "Volt", "Ohm", "Amperes"],
+                "answer": "Amperes"
+              },
+              {
+                "id": "18",
+                "quiz": "What scientist is well known for his theory of relativity?",
+                "choices": ["Isaac Newton", "Richard Feynman", "Albert Einstein", "Galileo Galilei"],
+                "answer": "Albert Einstein"
+              },
+              {
+                "id": "19",
+                "quiz": "Earth is located in which galaxy?",
+                "choices": ["The Milky Way Galaxy", "Antennae Galaxies", "Andromeda Galaxy", "Eye of Sauron"],
+                "answer": "The Milky Way Galaxy"
+              }
+            ]
+        },
+        {
+          "id": "8",
+          "title": "Water Quiz",
+          "desc":
+            "Water is a vitally important resource that is essential to life. Find out what you know about water properties, oceans, rivers, ice and other related trivia with our water quiz.",
+          "image_source":
+          "https://drive.google.com/uc?export=view&id=10YA9YkoqrldwkpzHwn4yKu-noq39DkJ6",
+          "quizzes": [
+            {
+              "id": "0",
+              "quiz": "True or false? Sound travels faster through water than air?",
+              "choices": ["True", "Fasle"],
+              "answer": "True"
+            },
+            {
+              "id": "1",
+              "quiz": "Water is made up of what two elements?",
+              "choices": ["Carbon and oxygen","Neon and hydrogen", "Hydrogen and oxygen", "Non of the above"],
+              "answer": "Hydrogen and oxygen"
+            },
+            {
+              "id": "2",
+              "quiz": "What is another name for a tidal wave?",
+              "choices": ["Giant Sea Swell", "Tsunami", "Rogue Wave", "Seismic Sea Wave"],
+              "answer": "Tsunami"
+            },
+            {
+              "id": "3",
+              "quiz": "True or false? The Indian Ocean is the biggest ocean on Earth.",
+              "choices": ["True", "Fasle"],
+              "answer": "False",
+              "answerTow":"Pacific Ocean"
+            },
+            {
+              "id": "4",
+              "quiz": "The solid state of water is known as what?",
+              "choices": ["Low", "Snow", "Rain", "Clouds"],
+              "answer": "Ice"
+            },
+            {
+              "id": "5",
+              "quiz": "Can the average human survive without water for a few days or a few weeks?",
+              "choices": ["A few days", "A few weeks"],
+              "answer": "A few days"
+            },
+            {
+              "id": "6",
+              "quiz": "True or false? Pure water is tasteless.",
+              "choices": ["True", "Fasle"],
+              "answer": "True"
+            },
+            {
+              "id": "7",
+              "quiz": "Nimbus, cumulus and stratus are types of what?",
+              "choices": ["Air", "Thunder", "Fire", "Water"],
+              "answer": "Clouds"
+            },
+            {
+              "id": "8",
+              "quiz": "True or false? Water is an example of a chemical element.",
+              "choices": ["True", "Fasle"],
+              "answer": "False"
+            },
+            {
+              "id": "9",
+              "quiz": "Does water cover more or less than 50% of the Earth’s surface?",
+              "choices": ["More", "Less"],
+              "answer": "More",
+              "answerTow":"(Around 70%)"
+            },
+            {
+              "id": "10",
+              "quiz": "True or false? Water boils at 100 degrees Celsius (212 degrees Fahrenheit).",
+              "choices": ["True", "Fasle"],
+              "answer": "True"
+            },
+            {
+              "id": "11",
+              "quiz": "When water is cooled, does it contract or expand?",
+              "choices": ["Expand", "Contract"],
+              "answer": "Expand"
+            },
+            {
+              "id": "12",
+              "quiz": "Water freezes at what temperature?",
+              "choices": ["5 °C", "0 °C", "-5 °C", "-18°C"],
+              "answer": "0 °C",
+              "answerTow":"(32 °F)"
+            },
+            {
+              "id": "13",
+              "quiz": "True or false? Water is easy to compress.",
+              "choices": ["True", "Fasle"],
+              "answer": "False"
+            },
+            {
+              "id": "14",
+              "quiz": "What is the chemical formula of water?",
+              "choices": ["CH2", "CO2", "H20", "Non of the above"],
+              "answer": "H20"
+            },
+            {
+              "id": "15",
+              "quiz": "The deepest point in all of the world’s oceans is named what?",
+              "choices": ["The Philippine Trench", "The Tonga Trench", "The Mariana Trench", "The Puerto Rico Trench"],
+              "answer": "Mariana Trench"
+            },
+            {
+              "id": "16",
+              "quiz": "True or false? The consumption of bottled water has risen significantly over the last few decades.",
+              "choices": ["True", "Fasle"],
+              "answer": "True"
+            },
+            {
+              "id": "17",
+              "quiz": "Pure water has a pH level of a around what number?",
+              "choices": ["7", "6", "5", "2"],
+              "answer": "True"
+            },
+            {
+              "id": "18",
+              "quiz": "What is the longest river on Earth?",
+              "choices": ["The Amazon River", "The Nile River", "Yangtze", "The Yellow River"],
+              "answer": "The Nile River"
+            },
+            {
+              "id": "19",
+              "quiz": "Pure water has a pH level of a around what number?",
+              "choices": ["True", "Fasle"],
+              "answer": "False",
+              "answerTow": "It floats"
+            }
+          ]
+        },
+        {
+          "id": "9",
+          "title": "Technology Quiz",
+          "desc":
+            "Technology covers interesting topics such as science innovations, the Internet, modern gadgets and computers. Put your knowledge to the test with our technology quiz.",
+          "image_source":
+          "https://drive.google.com/uc?export=view&id=1iBy6GawWuAW17DxBdW4iTR18QdWTt7JU",
+          "quizzes": [
+            {
+              "id": "0",
+              "quiz": "Solar power generates electricity from what source?",
+              "choices": ["The Moon", "The Sun", "The Blackhole", "The Galaxy"],
+              "answer": "The Sun"
+            },
+            {
+              "id": "1",
+              "quiz": "Did the Apple iPhone first become available in 2005, 2006 or 2007?",
+              "choices": ["2005","2006", "2007", "Non of the above"],
+              "answer": "2007"
+            },
+            {
+              "id": "2",
+              "quiz": " In terms of computing, what does CPU stand for?",
+              "choices": ["Computer Processing Unit", "Central Processing Unit", "I do not know", " None of the above"],
+              "answer": " Central Processing Unit"
+            },
+            {
+              "id": "3",
+              "quiz": "True or false? Nintendo was founded after the year 1900.",
+              "choices": ["True", "Fasle"],
+              "answer": "False",
+              "answerTow":"1889"
+            },
+            {
+              "id": "4",
+              "quiz": "The Hubble Space Telescope is named after which American astronomer?",
+              "choices": ["Georges Lemaître", "Alexander Friedmann", "Edwin Hubble", "George Gamow"],
+              "answer": "Edwin Hubble"
+            },
+            {
+              "id": "5",
+              "quiz": "Is the wavelength of infrared light too long or short to be seen by humans?",
+              "choices": ["Long", "Short"],
+              "answer": "Long"
+            },
+            {
+              "id": "6",
+              "quiz": "Firefox, Opera, Chrome, Safari and Explorer are types of what?",
+              "choices": ["The Internet", "Mobile Application", "Web browsers", "Non of the above"],
+              "answer": "Web browsers"
+            },
+            {
+              "id": "7",
+              "quiz": "True or false? Gold is not a good conductor of electricity?",
+              "choices": ["True", "False"],
+              "answer": "False"
+            },
+            {
+              "id": "8",
+              "quiz": "The technologically advanced humanoid robot ASIMO is made by which car company?",
+              "choices": ["Tesla", "Ford", "Honda", "BMW"],
+              "answer": "Honda"
+            },
+            {
+              "id": "9",
+              "quiz": "True or false? Atomic bombs work by atomic fission.",
+              "choices": ["True", "False"],
+              "answer": "True"
+            },
+            {
+              "id": "10",
+              "quiz": "In terms of computing, what does ROM stand for?",
+              "choices": ["Read Only Memory", "Random Access Memory"],
+              "answer": "Read Only Memory"
+            },
+            {
+              "id": "11",
+              "quiz": "Did the original Sony Playstation use CDs or cartridges to play games?",
+              "choices": ["Cartridges", "CDs"],
+              "answer": "CDs"
+            },
+            {
+              "id": "12",
+              "quiz": "What is the Earth’s primary source of energy?",
+              "choices": ["The Moon", "The Sun", "The Sea", "The Wind"],
+              "answer": "The Sun"
+            },
+            {
+              "id": "13",
+              "quiz": "IBM is a well known computer and information technology company, what does IBM stand for?",
+              "choices": ["International Business Machines", "Microsoft Corporation", "Oracle Corporation", "Cisco Systems"],
+              "answer": "International Business Machines"
+            },
+            {
+              "id": "14",
+              "quiz": "Along with whom did Bill Gates found Microsoft?",
+              "choices": ["Jody Allen", "Steve Ballmer", "Satya Nadella", "Paul Allen"],
+              "answer": "Paul Allen"
+            },
+            {
+              "id": "15",
+              "quiz": "What science fiction writer wrote the three laws of robotics?",
+              "choices": ["Isaac Asimov", "Arthur C. Clarke", "Ray Bradbury", "Philip K. Dick"],
+              "answer": "Isaac Asimov"
+            },
+            {
+              "id": "16",
+              "quiz": "True or false? In computing, keyboards are used as input devices.",
+              "choices": ["True", "Fasle"],
+              "answer": "True"
+            },
+            {
+              "id": "17",
+              "quiz": "What does the abbreviation WWW stand for?",
+              "choices": ["World Wide Web", "Wireless Wide Web", "Non of the above"],
+              "answer": "World Wide Web"
+            },
+            {
+              "id": "18",
+              "quiz": "Nano, Shuffle, Classic and Touch are variations of what?",
+              "choices": ["The Mobile", "The TV", "The Apple iPod", "The Wall"],
+              "answer": "The Apple iPod"
+            },
+            {
+              "id": "19",
+              "quiz": "True or false? DNA is an abbreviation for ‘Deoxyribonucleic acid’.",
+              "choices": ["True", "Fasle"],
+              "answer": "True"
+            }
+          ]
+        }
+      ]
+}
+
